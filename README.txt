@@ -1,7 +1,7 @@
 This is a solution to code challenge from CodeCademy
 
 
-Code requuraments:
+Code requiraments:
 
 1.
 In order to complete this project, you should have completed the first few sections of Introduction to JavaScript (through Learn JavaScript: Loops).
